@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de caixa box-level</title>
+    <style>
+        h1{
+            
+            background-color: lightgray;
+            height: 300px;
+            width: 300px;
+            
+            border-width: 10px;
+            border-style: dashed;
+            border-color: black;
+            /* Simplificando código shorthand 
+            border: 10px dashed black;   */
+
+            padding-top: 10px;
+            padding-right: 10px;
+            padding-bottom: 10px;
+            padding-left: 10px;
+
+            /* Simplificando código shorthand 
+            padding: 10px 10px 10px 10px; 
+            = 
+            padding: 10px;
+            Se  os valores forem iguais apenas precisa informar uma única vez.
+            ==
+            Se colocar apenas dois valores, o primeiro será para cima e para baixo e o segundo para a direita e esquerda.
+            padding: 10px 20px;
+            */
+
+            margin-top: 10px;
+            margin-left: 10px;
+            margin-bottom: 10px;
+            margin-left: 10px;
+
+            /* margin: auto; => serve também para centralizar o conteúdo  */
+
+            outline-width: 5px;
+            outline-style: dashed;
+            outline-color: salmon;
+        }
+
+        a{
+            border-width: 10px;
+            border-style: outset;
+            border-color: darkred;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exemplo de caixa box-level</h1>
+    <p>Parágrafos também são exemplos de box-level, mas os <a href="#">links são exemplos de inline-level</a>. Vamos ver como tudo isso funciona. </p>
+</body>
+</html>

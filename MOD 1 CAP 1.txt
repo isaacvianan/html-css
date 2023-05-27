@@ -1,0 +1,67 @@
+CAPÍTULO 1 
+AULA 0 - O que vamos aprender no módulo 01?
+Ok.
+
+AULA 1 - Precisamos fazer um acordo.
+Ok.
+
+M01 - Primeiros passos HTML+CSS
+	Conceitos básicos, preparação do ambiente, semântica da HTML5, textos, títulos, ligações, multimídia, estilos.
+
+M02 - Deixando as coisas mais bonitas.
+	Fundamentos do desing, psicologia das cores, tipogradia, elementos CSS, modelo de caixas, wireframe, responsividade.
+
+M03 - Colocando um protótipo no ar.
+	Versionamento de sftware, hospedagem de sites estáticos, tabelas.
+
+M04 - Aprofundando os conhecimentos.
+	Quadros em linha, formulários, media queries, mobile firt.
+
+M05 - Novas tecnologias.
+	Flexbox, Grid Layout, projeto final.
+
+https://github.com/gustavoguanabara
+
+AULA 02 - Será que este curso é pra mim?
+ok
+
+ALULA 03 -  Melhores livors para aprender HTML e CSS.
+
+		Referência on-line
+
+Referência MDN - Monzila Developer Network
+
+W3C  Standards - World Wide Web Consortium
+
+WHATWG living Standard - Web Hypertext Application Working Group
+
+W3Schools - Refsnes Data
+
+		Livros
+
+HTML5 - Entendenso e Executando. Mark Pilgrim. O'Reilly.
+CSS - Eric Meyer. O'Railly.
+Flexbox in CSS - Estelle Weyl. O'Reilly.
+Grid Layout in CSS - Eric Meyer. O'Reilly.
+
+HTML e CSS - Elizabeth Castro e Bruce Hyslop. Alta Books
+HTML & CSS - Jon Duckett. Alta Books.
+HTML & CSS - Use a cabeça. Elisabeth Robson e Eric Freeman
+
+HTML & CSS - Maurício Samy Silva. Novatec.
+
+Curso de design gráfico - David Dabner e outros. GG.
+Design - Bob e Maggie Gordon. Senac.
+Pensar com Tipos - Ellen Lupton. GG.
+A psicologia das cores. Eva Heller. GG.
+
+Introdução e boas práticas em UX Design
+Livro por Fabricio Teixeira
+
+Design de Produto: Uma visão Product‑Led sobre ...
+Livro por Josias Oliveira
+
+AULA 04 - Como a internet chega na minha casa?
+ok.
+
+
